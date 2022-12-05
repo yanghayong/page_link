@@ -72,6 +72,7 @@ boby {
 
 .item {
     display: flex;
+    margin-bottom: 30px; 
 }
 
 .item .image {
